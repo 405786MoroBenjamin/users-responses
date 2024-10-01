@@ -1,0 +1,96 @@
+[
+    {
+      "id": 1,
+      "plot_number": 101,
+      "block_number": 1,
+      "total_area_in_m2": 300.00,
+      "built_area_in_m2": 180.00,
+      "plot_type": {
+        "name": "House"
+      },
+      "plot_state": {
+        "name": "Available"
+      },
+      "owners": [
+        {
+          "owner_id": 1
+        },
+        {
+          "owner_id": 2
+        },
+        {
+          "owner_id": 3
+        }
+      ],
+      "files": [
+        {
+          "file_id": "file101a"
+        },
+        {
+          "file_id": "file101b"
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "plot_number": 102,
+      "block_number": 1,
+      "total_area_in_m2": 250.75,
+      "built_area_in_m2": 150.50,
+      "plot_type": {
+        "name": "Business"
+      },
+      "plot_state": {
+        "name": "Under construction"
+      },
+      "owners": [
+        {
+          "owner_id": 4
+        },
+        {
+          "owner_id": 5
+        }
+      ],
+      "files": [
+        {
+          "file_id": "file102a"
+        },
+        {
+          "file_id": "file102b"
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "plot_number": 103,
+      "block_number": 2,
+      "total_area_in_m2": 400.00,
+      "built_area_in_m2": 220.00,
+      "plot_type": {
+        "name": "Wasteland"
+      },
+      "plot_state": {
+        "name": "Sold"
+      },
+      "owners": [
+        {
+          "owner_id": 6
+        },
+        {
+          "owner_id": 7
+        },
+        {
+          "owner_id": 8
+        }
+      ],
+      "files": [
+        {
+          "file_id": "file103a"
+        },
+        {
+          "file_id": "file103b"
+        }
+      ]
+    }
+  ]
+  
