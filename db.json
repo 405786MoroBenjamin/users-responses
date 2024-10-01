@@ -336,7 +336,6 @@
         }
       ],
       "adresses":[
-        [
           {
             "street": "Calle Falsa",
             "number": "123"
@@ -357,7 +356,6 @@
             "street": "Calle de la Amargura",
             "number": "202"
           }
-        ]
       ]   
 }
   
