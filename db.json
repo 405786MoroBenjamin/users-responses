@@ -248,7 +248,7 @@
         ]
       }
     ],
-    "Users": [
+    "users": [
         {
           "id": 1,
           "name": "Alice",
@@ -380,6 +380,6 @@
           "roles": ["Admin", "SuperAdmin"]
         }
       ]
-      
+    
 }
   
