@@ -227,25 +227,6 @@
             "file_id": "gtr485"
           }
         ]
-      },
-      {
-        "id": 8,
-        "name": "Roberto",
-        "surname": "González",
-        "dni": 89012345,
-        "cuit_cuil": 20890123456,
-        "date_birth": "1975-09-25T00:00:00",
-        "contact_id": 1008,
-        "business_name": "González y Asociados",
-        "active": false,
-        "owner_type": {
-          "name": "Persona Jurídica"
-        },
-        "files": [
-          {
-            "file_id": "ptr938"
-          }
-        ]
       }
     ],
     "users": [
@@ -260,20 +241,7 @@
           "active": true,
           "avatar_url": "https://example.com/avatar/alicej.png",
           "datebirth": "1985-05-15T00:00:00",
-          "roles": ["SuperAdmin"]
-        },
-        {
-          "id": 2,
-          "name": "Bob",
-          "lastname": "Smith",
-          "username": "bobsmith",
-          "email": "bobsmith@example.com",
-          "dni": 23456789,
-          "contact_id": 1002,
-          "active": true,
-          "avatar_url": "https://example.com/avatar/bobsmith.png",
-          "datebirth": "1980-06-20T00:00:00",
-          "roles": ["Admin"]
+          "roles": ["Admin","SuperAdmin"]
         },
         {
           "id": 3,
@@ -365,19 +333,6 @@
           "avatar_url": "https://example.com/avatar/ireneg.png",
           "datebirth": "1983-11-20T00:00:00",
           "roles": ["Seguridad"]
-        },
-        {
-          "id": 10,
-          "name": "Jack",
-          "lastname": "Davis",
-          "username": "jackd",
-          "email": "jackd@example.com",
-          "dni": 91234567,
-          "contact_id": 1010,
-          "active": true,
-          "avatar_url": "https://example.com/avatar/jackd.png",
-          "datebirth": "1994-02-14T00:00:00",
-          "roles": ["Admin", "SuperAdmin"]
         }
       ],
       "adresses":[
